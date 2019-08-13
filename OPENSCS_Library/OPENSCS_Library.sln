@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPENSCS_Library", "OPENSCS_Library\OPENSCS_Library.csproj", "{536109C1-1E7A-4D9E-9FB7-410D3E6E6843}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{1BF9488F-FE26-4A02-831E-0B1E1FDD004D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{536109C1-1E7A-4D9E-9FB7-410D3E6E6843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{536109C1-1E7A-4D9E-9FB7-410D3E6E6843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{536109C1-1E7A-4D9E-9FB7-410D3E6E6843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{536109C1-1E7A-4D9E-9FB7-410D3E6E6843}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BF9488F-FE26-4A02-831E-0B1E1FDD004D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BF9488F-FE26-4A02-831E-0B1E1FDD004D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BF9488F-FE26-4A02-831E-0B1E1FDD004D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BF9488F-FE26-4A02-831E-0B1E1FDD004D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
